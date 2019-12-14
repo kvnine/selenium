@@ -1,0 +1,31 @@
+
+1.   PRAKASAM            BESTAVARIPETA       BASINE PALLI        KHAJIPURAM                      Dry land                        143,000                         01/08/2019                      
+2.   PRAKASAM            BESTAVARIPETA       BASINE PALLI        JAMMIVARI PALLI                 Dry land                        143,000                         01/08/2019                      
+3.   PRAKASAM            BESTAVARIPETA       BASINE PALLI        CHERUKU PALLI                   Dry land                        143,000                         01/08/2019                      
+4.   PRAKASAM            BESTAVARIPETA       BASINE PALLI        GANTAPURAM                      Dry land                        143,000                         01/08/2019                      
+5.   PRAKASAM            BESTAVARIPETA       BASINE PALLI        BASINE PALLI                    Dry land                        143,000                         01/08/2019                      
+6.   PRAKASAM            BESTAVARIPETA       BASINE PALLI        KHAJIPURAM                      Wet Land double crop            143,000                         01/08/2019                      
+7.   PRAKASAM            BESTAVARIPETA       BASINE PALLI        JAMMIVARI PALLI                 Wet Land double crop            143,000                         01/08/2019                      
+8.   PRAKASAM            BESTAVARIPETA       BASINE PALLI        CHERUKU PALLI                   Wet Land double crop            143,000                         01/08/2019                      
+9.   PRAKASAM            BESTAVARIPETA       BASINE PALLI        GANTAPURAM                      Wet Land double crop            143,000                         01/08/2019                      
+10.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        BASINE PALLI                    Wet Land double crop            143,000                         01/08/2019                      
+11.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        KHAJIPURAM                      Coconut Garden                  165,000                         01/08/2019                      
+12.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        JAMMIVARI PALLI                 Coconut Garden                  165,000                         01/08/2019                      
+13.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        CHERUKU PALLI                   Coconut Garden                  165,000                         01/08/2019                      
+14.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        GANTAPURAM                      Coconut Garden                  165,000                         01/08/2019                      
+15.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        BASINE PALLI                    Coconut Garden                  165,000                         01/08/2019                      
+16.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        KHAJIPURAM                      House Sites                     2,129,600                       01/08/2019                      
+17.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        JAMMIVARI PALLI                 House Sites                     2,129,600                       01/08/2019                      
+18.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        CHERUKU PALLI                   House Sites                     2,129,600                       01/08/2019                      
+19.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        GANTAPURAM                      House Sites                     2,129,600                       01/08/2019                      
+20.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        BASINE PALLI                    House Sites                     2,129,600                       01/08/2019                      
+21.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        KHAJIPURAM                      Agricultural Land fit for H.S.  2,129,600                       01/08/2019                      
+22.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        JAMMIVARI PALLI                 Agricultural Land fit for H.S.  2,129,600                       01/08/2019                      
+23.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        CHERUKU PALLI                   Agricultural Land fit for H.S.  2,129,600                       01/08/2019                      
+24.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        GANTAPURAM                      Agricultural Land fit for H.S.  2,129,600                       01/08/2019                      
+25.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        BASINE PALLI                    Agricultural Land fit for H.S.  2,129,600                       01/08/2019                      
+26.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        KHAJIPURAM                      Land abutting NH/SH/ZPP/MPP     275,000                         01/08/2019                      
+27.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        JAMMIVARI PALLI                 Land abutting NH/SH/ZPP/MPP     275,000                         01/08/2019                      
+28.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        GANTAPURAM                      Land abutting NH/SH/ZPP/MPP     275,000                         01/08/2019                      
+29.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        CHERUKU PALLI                   Land abutting NH/SH/ZPP/MPP     275,000                         01/08/2019                      
+30.  PRAKASAM            BESTAVARIPETA       BASINE PALLI        BASINE PALLI                    Land abutting NH/SH/ZPP/MPP     275,000                         01/08/2019                      
