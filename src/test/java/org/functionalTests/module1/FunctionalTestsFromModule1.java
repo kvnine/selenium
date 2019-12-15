@@ -43,10 +43,10 @@ public class FunctionalTestsFromModule1 extends CommonLibrary{
 		//Assert.assertTrue(objHomePage.getHomePageDashboardUserName().toLowerCase().contains("manger id : mgr123"));
 		System.out.println("Page title showing for dashboard : " + objHomePage.getHomePageDashboardUserName().toLowerCase());
 		super.driver.close();
-		System.out.println("testng test completed");
+		System.out.println("testng test createContact");
 	}
 
-	@Test(priority = 1)
+	@Test(priority = 2)
 	public void updateAccount() {
 		
 		// Verify login page title
@@ -61,7 +61,25 @@ public class FunctionalTestsFromModule1 extends CommonLibrary{
 		//Assert.assertTrue(objHomePage.getHomePageDashboardUserName().toLowerCase().contains("manger id : mgr123"));
 		System.out.println("Page title showing for dashboard : " + objHomePage.getHomePageDashboardUserName().toLowerCase());
 		super.driver.quit();
-		System.out.println("testng test completed");
+		System.out.println("testng test updateAccount");
+	}
+
+	@Test(priority = 1)
+public void deleteAccount() {
+		
+		// Verify login page title
+		String loginPageTitle = objLogin.getLoginTitle();
+		System.out.println(loginPageTitle);
+		//Assert.assertTrue(loginPageTitle.toLowerCase().contains("guru99 bank"));
+		// login to application
+		objLogin.loginApp("mgr123", "mgr!23");
+		// go the next page
+		objHomePage = new HomePage(super.driver);
+		// Verify home page
+		//Assert.assertTrue(objHomePage.getHomePageDashboardUserName().toLowerCase().contains("manger id : mgr123"));
+		System.out.println("Page title showing for dashboard : " + objHomePage.getHomePageDashboardUserName().toLowerCase());
+		super.driver.quit();
+		System.out.println("testng test deleteContact");
 	}
 
 }

@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="36113" started-at="2019-12-14T02:10:06Z" finished-at="2019-12-14T02:10:42Z">
+  <suite name="Suite" duration-ms="75789" started-at="2019-12-15T02:56:04Z" finished-at="2019-12-15T02:57:20Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="36113" started-at="2019-12-14T02:10:06Z" finished-at="2019-12-14T02:10:42Z">
+    <test name="Test" duration-ms="75789" started-at="2019-12-15T02:56:04Z" finished-at="2019-12-15T02:57:20Z">
       <class name="org.functionalTests.module1.FunctionalTestsFromModule1">
-        <test-method status="PASS" signature="setup()[pri:0, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="setup" is-config="true" duration-ms="14390" started-at="2019-12-14T07:40:06Z" finished-at="2019-12-14T07:40:21Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="setup" is-config="true" duration-ms="21079" started-at="2019-12-15T08:26:05Z" finished-at="2019-12-15T08:26:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="createAccount()[pri:0, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="createAccount" duration-ms="8087" started-at="2019-12-14T07:40:21Z" finished-at="2019-12-14T07:40:29Z">
+        <test-method status="PASS" signature="createAccount()[pri:0, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="createAccount" duration-ms="11703" started-at="2019-12-15T08:26:26Z" finished-at="2019-12-15T08:26:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createAccount -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="setup" is-config="true" duration-ms="8340" started-at="2019-12-14T07:40:29Z" finished-at="2019-12-14T07:40:37Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="setup" is-config="true" duration-ms="13155" started-at="2019-12-15T08:26:37Z" finished-at="2019-12-15T08:26:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="updateAccount()[pri:1, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="updateAccount" duration-ms="5202" started-at="2019-12-14T07:40:37Z" finished-at="2019-12-14T07:40:42Z">
+        <test-method status="PASS" signature="deleteAccount()[pri:1, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="deleteAccount" duration-ms="6687" started-at="2019-12-15T08:26:51Z" finished-at="2019-12-15T08:26:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAccount -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="setup" is-config="true" duration-ms="14324" started-at="2019-12-15T08:26:57Z" finished-at="2019-12-15T08:27:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="updateAccount()[pri:2, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="updateAccount" duration-ms="8732" started-at="2019-12-15T08:27:12Z" finished-at="2019-12-15T08:27:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateAccount -->
       </class> <!-- org.functionalTests.module1.FunctionalTestsFromModule1 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
