@@ -1,37 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="75789" started-at="2019-12-15T02:56:04Z" finished-at="2019-12-15T02:57:20Z">
+  <suite name="Suite" duration-ms="78507" started-at="2019-12-25T19:49:52Z" finished-at="2019-12-25T19:51:11Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="75789" started-at="2019-12-15T02:56:04Z" finished-at="2019-12-15T02:57:20Z">
-      <class name="org.functionalTests.module1.FunctionalTestsFromModule1">
-        <test-method status="PASS" signature="setup()[pri:0, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="setup" is-config="true" duration-ms="21079" started-at="2019-12-15T08:26:05Z" finished-at="2019-12-15T08:26:26Z">
+    <test name="Test" duration-ms="78507" started-at="2019-12-25T19:49:52Z" finished-at="2019-12-25T19:51:11Z">
+      <class name="org.functionalTests.module3.FunctionalTestsFromModule3">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.functionalTests.module3.FunctionalTestsFromModule3@60f82f98]" name="setup" is-config="true" duration-ms="18528" started-at="2019-12-26T01:19:53Z" finished-at="2019-12-26T01:20:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="createAccount()[pri:0, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="createAccount" duration-ms="11703" started-at="2019-12-15T08:26:26Z" finished-at="2019-12-15T08:26:37Z">
+        <test-method status="PASS" signature="Module1Test1()[pri:0, instance:org.functionalTests.module3.FunctionalTestsFromModule3@60f82f98]" name="Module1Test1" duration-ms="21616" started-at="2019-12-26T01:20:11Z" finished-at="2019-12-26T01:20:33Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createAccount -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="setup" is-config="true" duration-ms="13155" started-at="2019-12-15T08:26:37Z" finished-at="2019-12-15T08:26:51Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="deleteAccount()[pri:1, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="deleteAccount" duration-ms="6687" started-at="2019-12-15T08:26:51Z" finished-at="2019-12-15T08:26:57Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- deleteAccount -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="setup" is-config="true" duration-ms="14324" started-at="2019-12-15T08:26:57Z" finished-at="2019-12-15T08:27:12Z">
+        </test-method> <!-- Module1Test1 -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.functionalTests.module3.FunctionalTestsFromModule3@60f82f98]" name="setup" is-config="true" duration-ms="19067" started-at="2019-12-26T01:20:33Z" finished-at="2019-12-26T01:20:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="updateAccount()[pri:2, instance:org.functionalTests.module1.FunctionalTestsFromModule1@60f82f98]" name="updateAccount" duration-ms="8732" started-at="2019-12-15T08:27:12Z" finished-at="2019-12-15T08:27:20Z">
+        <test-method status="PASS" signature="Module1Test2()[pri:2, instance:org.functionalTests.module3.FunctionalTestsFromModule3@60f82f98]" name="Module1Test2" duration-ms="19135" started-at="2019-12-26T01:20:52Z" finished-at="2019-12-26T01:21:11Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- updateAccount -->
-      </class> <!-- org.functionalTests.module1.FunctionalTestsFromModule1 -->
+        </test-method> <!-- Module1Test2 -->
+      </class> <!-- org.functionalTests.module3.FunctionalTestsFromModule3 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

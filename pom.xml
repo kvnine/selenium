@@ -33,7 +33,7 @@
           <configuration>
           <suiteXmlFiles>
            <!-- Suite file injection parameter from command line -->
-          <suiteXmlFile>testNgTests\testNgTestsModule1\TestNgTestsModule1.xml</suiteXmlFile>
+          <suiteXmlFile>System.getProperty("env.TestNgTestSuiteName")</suiteXmlFile>
           <!-- <suiteXmlFile>testNgTests\camsTests\CamsAccountMerging.xml</suiteXmlFile> -->   
           </suiteXmlFiles>
           </configuration>

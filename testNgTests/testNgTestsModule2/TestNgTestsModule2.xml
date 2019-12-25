@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="methods">
   <test thread-count="20" name="Test">
     <classes>
-      <class name="dims.DimsBatchTagAssignment"/>
+      <class name="org.functionalTests.module2.FunctionalTestsFromModule2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

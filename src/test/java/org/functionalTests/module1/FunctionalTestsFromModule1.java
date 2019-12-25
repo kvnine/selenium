@@ -29,8 +29,8 @@ public class FunctionalTestsFromModule1 extends CommonLibrary{
 	 */
 
 	@Test(priority = 0)
-	public void createAccount() {
-	
+	public void Module1Test1() {
+		System.out.println("module1 test1");
 		// Verify login page title
 		String loginPageTitle = objLogin.getLoginTitle();
 		System.out.println(loginPageTitle);
@@ -47,8 +47,8 @@ public class FunctionalTestsFromModule1 extends CommonLibrary{
 	}
 
 	@Test(priority = 2)
-	public void updateAccount() {
-		
+	public void Module1Test2() {
+		System.out.println("module1 test2");
 		// Verify login page title
 		String loginPageTitle = objLogin.getLoginTitle();
 		System.out.println(loginPageTitle);
@@ -64,9 +64,9 @@ public class FunctionalTestsFromModule1 extends CommonLibrary{
 		System.out.println("testng test updateAccount");
 	}
 
-	@Test(priority = 1)
-public void deleteAccount() {
-		
+	@Test(priority = 1, enabled = true)
+	public void Module3Test3() {
+		System.out.println("module1 test3");
 		// Verify login page title
 		String loginPageTitle = objLogin.getLoginTitle();
 		System.out.println(loginPageTitle);
